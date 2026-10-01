@@ -1,0 +1,6 @@
+{
+  "name": "TALES House London - African Luxury Destination",
+  "description": "The official digital homepage for TALES House London at 28 Cavendish Square. A permanent luxury retail and cultural destination for African and diaspora brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
